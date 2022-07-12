@@ -26,6 +26,9 @@
    width: 200px;
    height: 50px;
 }
+.carousel-item img{
+    object-fit: cover;
+}
 img{
     width: 1500px;
     height: 590px;
